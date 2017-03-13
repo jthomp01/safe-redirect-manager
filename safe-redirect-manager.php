@@ -48,7 +48,7 @@ class SRM_Safe_Redirect_Manager {
 
 	private $whitelist_hosts = array();
 
-	public $default_max_redirects = 150;
+	public $default_max_redirects = 350;
 
 	/**
 	 * Sets up redirect manager
